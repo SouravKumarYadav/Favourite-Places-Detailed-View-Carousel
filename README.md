@@ -2,6 +2,8 @@
 
 ![Favourite-Place-Detailed-View Preview](https://github.com/SouravKumarYadav/Favourite-Places-Detailed-View-Carousel/blob/main/Favourite%20Places%20Detailed%20View%20Carousel%20Image%201.png)
 ![Favourite-Place-Detailed-View Preview](https://github.com/SouravKumarYadav/Favourite-Places-Detailed-View-Carousel/blob/main/Favourite%20Places%20Detailed%20View%20Carousel%20Image%202.png)
+![Favourite-Place-Detailed-View Preview](https://github.com/SouravKumarYadav/Favourite-Places-Detailed-View-Carousel/blob/main/Favourite%20Places%20Detailed%20View%20Carousel%20Image%203.png)
+
 
 
 > A detailed view section of the Taj Mahal with a Bootstrap carousel showcasing multiple images, accompanied by a descriptive text card.
