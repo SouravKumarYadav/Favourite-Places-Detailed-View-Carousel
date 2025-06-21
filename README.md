@@ -9,7 +9,7 @@
 > A detailed view section of the Taj Mahal with a Bootstrap carousel showcasing multiple images, accompanied by a descriptive text card.
 
 ## 🚀 Live Demo  
-👉 [Click here to view the live site](https://souravkumaryadav.github.io/Favourite-Place-Detailed-View-Carousel/)
+👉 [Click here to view the live site](https://souravkumaryadav.github.io/Favourite-Places-Detailed-View-Carousel/)
 
 ## 🧑‍💻 Technologies Used  
 - **HTML5** – Semantic page structure  
